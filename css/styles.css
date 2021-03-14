@@ -400,8 +400,8 @@ address {
 .project-2 {
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 1130px;
+  left: 615px;
+  top: 262px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -410,8 +410,8 @@ address {
 .project-3 {
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 1130px;
+  left: 1015px;
+  top: 262px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -421,7 +421,7 @@ address {
   width: 370px;
   height: 404px;
   left: 215px;
-  top: 1130px;
+  top: 696px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -430,8 +430,8 @@ address {
 .project-5 {
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 1130px;
+  left: 615px;
+  top: 696px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -440,8 +440,8 @@ address {
 .project-6 {
   width: 370px;
   height: 404px;
-  left: 215px;
-  top: 1130px;
+  left: 1015px;
+  top: 696px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -460,7 +460,7 @@ address {
 .project-8 {
   width: 370px;
   height: 404px;
-  left: 215px;
+  left: 615px;
   top: 1130px;
 
   background: #ffffff;
@@ -470,7 +470,7 @@ address {
 .project-9 {
   width: 370px;
   height: 404px;
-  left: 215px;
+  left: 1015px;
   top: 1130px;
 
   background: #ffffff;
@@ -489,10 +489,10 @@ address {
 .portfolio-contacts:hover,
 .web:hover,
 .portfolio-mail:hover,
-.portfolio-phone:hover {
+.portfolio-telephone:hover {
   color: #2196f3;
 }
-.logo1 {
+.web-logo-style {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
