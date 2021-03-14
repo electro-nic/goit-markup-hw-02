@@ -1,6 +1,5 @@
 body {
     font-family: "Roboto", sans-serif;
-    font-family: "Raleway", sans-serif;
     background-color: #FFFFFF;
     color: #212121
 }
@@ -12,7 +11,7 @@ ul {
 }
 p {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
@@ -24,7 +23,7 @@ p {
 
 .logo {
     font-family: Raleway;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -32,7 +31,7 @@ p {
 }
 .logotip {
     font-family: Raleway;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -47,7 +46,7 @@ p {
 .headlink-studio, 
 .headlink-studio-link {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -62,7 +61,7 @@ p {
 
 .contacts-link {
   font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -74,7 +73,7 @@ p {
 }
 .main-title {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -83,7 +82,7 @@ p {
 }
 .main-title {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -106,7 +105,7 @@ p {
 
 .buy-us-product {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 16px;
     line-height: 1.87;
@@ -119,7 +118,7 @@ p {
 .buy-us-product:hover,
 .buy-us-product:focus {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 16px;
     line-height: 1.87;
@@ -130,7 +129,7 @@ p {
 .about-us,
 .section-about-us-title {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 14px;
     line-height: 1.14;
@@ -142,7 +141,7 @@ p {
 .what-we-can,
 .our_team {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 36px;
     line-height: 1.16;
@@ -152,7 +151,7 @@ p {
 }
 h3 {
     font-family: Roboto;
-    font-style: normal;
+  
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -161,7 +160,7 @@ h3 {
 
 .footer-logo {
     font-family: Raleway;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -170,7 +169,7 @@ h3 {
 }
 .footer-logo-style {
     font-family: Raleway;
-    font-style: normal;
+  
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -211,7 +210,7 @@ address {
     letter-spacing: 0.03em;
   
     color: #ffffff;
-  }
+ }
   .footer-mail {
     font-family: Roboto;
     font-style: normal;
@@ -223,7 +222,7 @@ address {
     letter-spacing: 0.03em;
   
     color: rgba(255, 255, 255, 0.6);
-  }
+}
   .footer-telephone {
     font-family: Roboto;
     font-style: normal;
@@ -239,7 +238,7 @@ address {
 /* Portfolio  */
 .portfolio-logo {
   font-family: Raleway;
-  font-style: normal;
+
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -250,7 +249,7 @@ address {
 }
 .portfolio-logotipe {
   font-family: Raleway;
-  font-style: normal;
+
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -262,13 +261,30 @@ address {
 }
 .portfolio-link {
   font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-
-  color: #212121;
+  color: #2196F3;
+}
+.portfolio-studio {
+    font-family: Roboto;
+  
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+  }
+.portfolio-link-contacts {
+    font-family: Roboto;
+  
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
 }
 .portfolio-logotipe:hover {
   color: #2196f3;
@@ -279,7 +295,7 @@ address {
 }
 .portfolio-contacts {
   font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -291,9 +307,19 @@ address {
   display: none;
 }
 
-.vse {
+.button-all {
   font-family: Roboto;
-  font-style: normal;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  color: #212121;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.button-sites {
+  font-family: Roboto;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -302,9 +328,9 @@ address {
   border-radius: 4px;
   cursor: pointer;
 }
-.sites {
+.button-apps {
   font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -313,72 +339,52 @@ address {
   border-radius: 4px;
   cursor: pointer;
 }
-.apps {
+.button-designer {
   font-family: Roboto;
-  font-style: normal;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
-
   color: #212121;
   border-radius: 4px;
   cursor: pointer;
 }
-.decinger {
+.button-marketing {
   font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
-  /* identical to box height, or 162% */
-
   color: #212121;
   border-radius: 4px;
   cursor: pointer;
 }
-.marketings {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.62;
-  /* identical to box height, or 162% */
-
-  color: #212121;
-  border-radius: 4px;
-  cursor: pointer;
-}
-.vse:hover,
-.vse:focus,
-.sites:hover,
-.sites:focus,
-.apps:hover,
-.apps:focus,
-.decinger:hover,
-.decinger:focus,
-.marketings:hover,
-.marketings:focus {
+.style-button-all:hover,
+.style-button-all:focus,
+.button-sites:hover,
+.button-sites:focus,
+.button-apps:hover,
+.button-apps:focus,
+.button-designer:hover,
+.button-designer:focus,
+.button-marketing:hover,
+.button-marketing:focus {
   background: #2196f3;
 }
-.all:hover {
+.style-button-active:hover {
   color: #ffffff;
 }
 
 .project-titles {
   font-family: Roboto;
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
-  /* identical to box height, or 200% */
-
   letter-spacing: 0.06em;
 
   color: #212121;
 }
 .project-title {
   font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.87;
@@ -390,7 +396,7 @@ address {
   width: 370px;
   height: 404px;
   left: 215px;
-  top: 1130px;
+  top: 262px;
 
   background: #ffffff;
   border: 1px solid #eeeeee;
@@ -486,7 +492,7 @@ address {
 
   background: #2f303a;
 }
-.portfolio-contacts:hover,
+.portfolio-address:hover,
 .web:hover,
 .portfolio-mail:hover,
 .portfolio-telephone:hover {
@@ -494,7 +500,7 @@ address {
 }
 .web-logo-style {
   font-family: Raleway;
-  font-style: normal;
+
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
@@ -506,7 +512,7 @@ address {
 }
 .web {
   font-family: Raleway;
-  font-style: normal;
+
   font-weight: bold;
   font-size: 26px;
   line-height: 1.19;
