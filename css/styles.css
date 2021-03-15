@@ -14,7 +14,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: var(--background-color);
-    color: var(--title-color)
+    color: var(--title-color);
 }
 a {
     text-decoration: none;
@@ -204,7 +204,7 @@ address {
     top: 2208px;
 }
 .footer-main  {
-    width: 1600px;
+    width: 1600px; 
     height: 252px;
     left: 0px;
     top: 2097px;
